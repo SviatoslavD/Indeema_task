@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "вулиця Шолом-Алейхема",
+               "short_name" : "вулиця Шолом-Алейхема",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Шевченківський район",
+               "short_name" : "Шевченківський район",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Львів",
+               "short_name" : "Львів",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Львівська міськрада",
+               "short_name" : "Львівська міськрада",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Львівська область",
+               "short_name" : "Львівська область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Україна",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "вулиця Шолом-Алейхема, 11, Львів, Львівська область, Україна",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.844198,
+               "lng" : 24.020169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8455469802915,
+                  "lng" : 24.02151798029151
+               },
+               "southwest" : {
+                  "lat" : 49.8428490197085,
+                  "lng" : 24.0188200197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsZSQZXTdOkcRFIuxwMONOwg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

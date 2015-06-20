@@ -1,10 +1,6 @@
 'use strict';
 
-/**
- * @ngdoc function
- * @name indeemaTaskApp.controller:AboutCtrl
- * @description
- * # AboutCtrl
+/*
  * Controller of the indeemaTaskApp
  */
 angular.module('indeemaTaskApp')

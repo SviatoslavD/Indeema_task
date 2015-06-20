@@ -1,17 +1,13 @@
 'use strict';
 
-/**
- * @ngdoc overview
- * @name indeemaTaskApp
- * @description
- * # indeemaTaskApp
- *
+/*
  * Main module of the application.
  */
 angular
   .module('indeemaTaskApp', [
     'ngResource',
-    'ngRoute'
+    'ngRoute',
+    'uiGmapgoogle-maps'
   ])
   .config(function ($routeProvider) {
     $routeProvider
